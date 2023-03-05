@@ -11,7 +11,8 @@ Sample05March
 ## Link Demo ##
 [Github tutorial for beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) 
 
-![See Image](![GitHub image](https://user-images.githubusercontent.com/127011737/222949469-d7826727-ad60-4190-a960-85e75365d21c.png)
+![GitHub image](https://user-images.githubusercontent.com/127011737/222950234-dde07747-cbd7-4dc9-8ba6-3c36e5e9e7e2.png)
+
 
 ### THANK YOU GARGI 
 
